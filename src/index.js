@@ -28,7 +28,7 @@ fastify.register(fastifySwagger, {
     },
 })
 
-fastify.register(fastifySwaggerUi, {prefix: 'api-doc'})
+fastify.register(fastifySwaggerUi, {prefix: 'api-docs'})
 fastify.register(router)
 
 const start = async () => {

@@ -38,3 +38,6 @@ Please note that you need to have Node.js installed on your system to run these 
 Use a version no lower than 18.x, as some things may simply not work (for example, dev mode)
 
 
+Go to http://localhost:3000/api-docs to test the application
+
+
